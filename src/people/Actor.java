@@ -1,3 +1,5 @@
+package people;
+
 import java.util.Objects;
 
 public class Actor extends Person {

@@ -1,3 +1,6 @@
+import people.*;
+import shows.*;
+
 import java.util.ArrayList;
 public class Theatre {
 
